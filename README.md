@@ -31,12 +31,11 @@ Too low!
 Attempt 3: 32
 Congratulations! You guessed it in 3 attempts!
 
+---
 
 📽️ Demo & Internship Links:
 
-🎥 Demo Video:
-
-🔗 LinkedIn Post: 
+🔗 LinkedIn Post: https://www.linkedin.com/posts/siri-vemula-831861236_codvedajourney-pythoninternship-taskcompletion-activity-7357652572473577472-s-Jv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrb8WUBTfUhblQ_-WQtD-iQHCp2A9mnUZk
 
 
 📚 Internship Provider: Codveda Technology
